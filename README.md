@@ -5,7 +5,6 @@
 [![node version](https://img.shields.io/node/v/@timlukahorstmann/mcp-weather)](https://www.npmjs.com/package/@timlukahorstmann/mcp-weather)
 [![issues](https://img.shields.io/github/issues/TimLukaHorstmann/mcp-weather)](https://github.com/TimLukaHorstmann/mcp-weather/issues)
 [![weekly downloads](https://img.shields.io/npm/dm/@timlukahorstmann/mcp-weather)](https://www.npmjs.com/package/@timlukahorstmann/mcp-weather)
-
 [![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/TimLukaHorstmann/mcp-weather)](https://archestra.ai/mcp-catalog/timlukahorstmann__mcp-weather)
 
 <p align="center">
