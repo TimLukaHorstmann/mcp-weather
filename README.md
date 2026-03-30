@@ -49,6 +49,10 @@ npx -y supergateway --stdio "npx -y @timlukahorstmann/mcp-weather" \
 
 ---
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/timlukahorstmann-mcp-weather).
+
 ## MCP Server Config Example
 
 For integration with Claude Desktop or other MCP-compatible clients, add this to your config (e.g. `claude_desktop_config.json`):
